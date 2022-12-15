@@ -15,7 +15,7 @@ https://github.com/vamsidhar32/iiitb_SISO
    
 To install the python dependencies, follow the below steps: <br/>
 ```
-git clone https://github.com/ujjawal0503/Bigspicy
+git clone https://github.com/vamsidhar32/asicbigspicy
 cd BigSpicy/
 sudo apt-get update
 pip install -e ".[dev]"
