@@ -8,7 +8,7 @@ https://github.com/vamsidhar32/iiitb_SISO
 
 ## FLOWCHART : <br/>
  <p align="center">
-  <img  src="/images/2.png">
+  <img  src="/bigspicy.png">
 </p>
 
 ## PREREQUISITES : <br/>
@@ -123,7 +123,7 @@ Setup Time: Setup time is the amount of time required for the input to a Flip-Fl
 Hold TIme: Hold time is the minimum amount of time required for the input to a Flip-Flop to be stable after a clock edge. 
 
 <p align="center">
-  <img  src="/images/2.png">
+  <img  src="/big2.png">
 </p>
 
 Setup time and hold time are said to be the backbone of timing analysis. Rightly so, for the chip to function properly, setup and hold timing constraints need to be met properly for each and every flip-flop in the design. If even a single flop exists that does not meet setup and hold requirements for timing paths starting from/ending at it, the design will fail and meta-stability will occur.
